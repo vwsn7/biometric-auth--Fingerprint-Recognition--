@@ -1,0 +1,9 @@
+# Dataset
+
+This project uses selected fingerprint images from the
+FVC2002 fingerprint database for testing and demonstration.
+
+The dataset was obtained from the official FVC2002 source.
+Only selected images were used in the project.
+
+The original dataset is not included in this repository.
